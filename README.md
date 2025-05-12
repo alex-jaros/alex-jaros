@@ -20,7 +20,7 @@ I'm a Business Analytics and Information Systems student at the Tippie College o
 
 ## 📚 Current Projects
 
-- NFL Draft Analytics Site (Top 100 Big Board, Positional Rankings, Mock Drafts)
+- NFL Draft Analytics Site 
 - Scheduling Optimization Dashboard for University of Iowa Orthodontics
 
 ---
@@ -31,12 +31,11 @@ I'm a Business Analytics and Information Systems student at the Tippie College o
 _BA in Business Analytics and Information Systems_  
 📍 Iowa City, IA  
 📅 August 2021 – May 2025  
-🎯 GPA: 3.43
 
 ---
 
 ## 📬 Contact
 
-📧 jaros880@gmail.com  
+📧 jaros899@gmail.com  
 🌐 [alexjaros.me](https://alexjaros.me)
 
